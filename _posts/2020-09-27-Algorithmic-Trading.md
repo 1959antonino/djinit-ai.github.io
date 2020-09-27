@@ -1,12 +1,12 @@
 ---
-Layout:     post
+layout:     post
 title:      Algorithmic Trading
-Date:       2020-09-27 07:00:00
-summary:    AI in Trading
-Categories: Python, Stock Market, AI
+date:       2020-09-27 07:00:00
+summary:    Implementations of AI in Trading
+categories: Python, Stock Market, AI
 ---
 
-## Algorithmic Trading
+# Algorithmic Trading
 
 Did you know that in reality, a trade could generate profit margins at a pace that is impossible for humans?
 
