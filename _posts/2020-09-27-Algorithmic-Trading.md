@@ -50,7 +50,7 @@ On Wall Street, traders employ algo trading to buy and sell stocks automatically
 Algorithmic trading is dominated by large trading firms, such as hedge funds, investment banks, and proprietary trading firms. Given the abundant resource availability due to their large size, such firms usually build their own proprietary trading software, including large trading systems with dedicated data centers and support staff.
 
 <p align="center">
-<iframe width="85%" height="30%" src="https://www.youtube.com/embed/2u007Msq1qo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="85%" height="40%" src="https://www.youtube.com/embed/2u007Msq1qo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Why is it used?
@@ -150,7 +150,7 @@ In today’s dynamic trading world, the original price quote would have changed 
 ### Algorithmic Trading Strategies
 
 <p align="center">
-<iframe width="85%" height="30%" src="https://www.youtube.com/embed/4Ae2_i5nMxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="85%" height="40%" src="https://www.youtube.com/embed/4Ae2_i5nMxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Any strategy for algorithmic trading requires an identified opportunity that is profitable in terms of improved earnings or cost reduction. The following are some of the common trading strategies used in algo-trading:
