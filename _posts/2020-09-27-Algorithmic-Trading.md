@@ -1,12 +1,12 @@
 ---
 Layout:     post
-Title:      Algorithmic Trading
+title:      Algorithmic Trading
 Date:       2020-09-27 07:00:00
 Summary:    AI in Trading
 Categories: Python, Stock Market, AI
 ---
 
-# Algorithmic Trading
+## Algorithmic Trading
 
 Did you know that in reality, a trade could generate profit margins at a pace that is impossible for humans?
 
@@ -36,7 +36,7 @@ The concept behind how the stock market works is pretty simple. Operating much l
 
 <em>We finally arrived at …</em>
 
-## Algorithmic Trading
+## Algorithmic Trading Defination
 
 Algorithmic trading (also called automated trading or algo-trading) uses a computer program that follows a defined set of instructions (an algorithm) to place a trade.Algorithmic trading makes use of complex formulas, combined with mathematical models and human oversight, to make decisions to buy or sell financial securities on an exchange. The trade, in theory, can generate profits at a speed and frequency that is impossible for a human trader.The defined sets of instructions are based on timing, price, quantity, or any mathematical model. Apart from profit opportunities for the trader, algo-trading renders markets more liquid and trading more systematic by ruling out the impact of human emotions on trading activities.
 In simple words an automated and pre programmed trading instructions with a lot of different parameters is algorithmic trading.
