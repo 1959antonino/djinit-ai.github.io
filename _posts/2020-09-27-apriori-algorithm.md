@@ -5,9 +5,6 @@ date:       2020-09-22 07:40:40
 summary:    Implementations of Apriori Algorithm
 categories: Python, Association Rule Learning
 ---
-
-<h1>Apriori Algorithm</h1>
-
 Ever wondered how predicting the future at every stage of our lives will make our lives so convenient? Because what we don’t realise is, our life is filled with patterns.
 Won’t it be great to analyse these already existing patterns to make our lives easier? Well, don’t worry, Data Mining has got you covered. Data mining is the exploration and analysis of large data to discover meaningful patterns and rules.
 <br>
@@ -165,7 +162,7 @@ In the <b>LHS</b> variable, we store the first item from all the results, from w
 The <b>supports, confidences and lifts</b> store all the support, confidence and lift values from the results.
 <br><br>
 <p align="center">
-<img src="/images/Apriori-Algorithm-14.png" height=250 width=950 />
+<img src="/images/Apriori-Algorithm-14.png" height=200 width=950 />
 </p>
 <br>
 Finally, we store these variables into one dataframe, so that they are easier to visualize.
