@@ -1,11 +1,10 @@
 ---
-layout:     post
-title:      Algorithmic Trading
-date:       2020-09-27 07:00:00
-summary:    AI in Trading
-categories: Python, Stock Market, AI
+Layout:     post
+Title:      Algorithmic Trading
+Date:       2020-09-27 07:00:00
+Summary:    AI in Trading
+Categories: Python, Stock Market, AI
 ---
-
 
 # Algorithmic Trading
 
