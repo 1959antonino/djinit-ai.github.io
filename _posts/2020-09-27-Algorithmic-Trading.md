@@ -18,7 +18,7 @@ Thanks to <strong>Algorithmic Trading</strong>, a growing number of investors ar
 Algorithms are math equations used to program computers to make decisions.An algorithm is a procedure or formula for solving a problem, based on conducting a sequence of specified actions. A computer program can be viewed as an elaborate algorithm. In mathematics and computer science, an algorithm usually means a small procedure that solves a recurrent problem.
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-1.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-1.png" height=500 width=750 />
 </p>
 
 <em>So now you must be wondering...</em>
@@ -26,8 +26,8 @@ Algorithms are math equations used to program computers to make decisions.An alg
 ### What is trading?
 
 <p align="center">
-<img src="/images/algorithmic_trading-2.png" height="20%" width="45%" />
-<img src="/images/algorithmic_trading-3.png" height="20%" width="45%"/>
+<img src="/images/algorithmic_trading-2.png" height=250 width=375 />
+<img src="/images/algorithmic_trading-3.png" height=250 width=375 />
 </p>
 
 We all know how important it is to invest money in the right avenues to grow wealth. Stock market investment is one such lucrative option that has rewarded steadfast investors with high returns over the years. However, to gain the maximum out of a financial instrument, it is essential to know about its workings.
@@ -50,7 +50,7 @@ On Wall Street, traders employ algo trading to buy and sell stocks automatically
 Algorithmic trading is dominated by large trading firms, such as hedge funds, investment banks, and proprietary trading firms. Given the abundant resource availability due to their large size, such firms usually build their own proprietary trading software, including large trading systems with dedicated data centers and support staff.
 
 <p align="center">
-<iframe width="90%" height="40%" src="https://www.youtube.com/embed/2u007Msq1qo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="85%" height="30%" src="https://www.youtube.com/embed/2u007Msq1qo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ### Why is it used?
@@ -144,13 +144,13 @@ In today’s dynamic trading world, the original price quote would have changed 
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-4.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-4.png" height=500 width=750 />
 </p>
 
 ### Algorithmic Trading Strategies
 
 <p align="center">
-<iframe width="90%" height="40%" src="https://www.youtube.com/embed/4Ae2_i5nMxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="85%" height="30%" src="https://www.youtube.com/embed/4Ae2_i5nMxs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 Any strategy for algorithmic trading requires an identified opportunity that is profitable in terms of improved earnings or cost reduction. The following are some of the common trading strategies used in algo-trading:
@@ -191,51 +191,51 @@ You can install the library by writing: ‘pip install oandapy’ in the termina
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-5.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-5.png" height=500 width=750 />
 </p>
 
 ##### Backtesting
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-6.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-6.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-7.png" height="40%" width="90%"/>
+<img src="/images/algorithmic_trading-7.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-8.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-8.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-9.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-9.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-10.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-10.png" height=500 width=750 />
 </p>
 
 ##### Automated Trading
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-11.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-11.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-12.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-12.png" height=500 width=750 />
 </p>
 
 <br>
 <p align="center">
-<img src="/images/algorithmic_trading-13.png" height="40%" width="90%" />
+<img src="/images/algorithmic_trading-13.png" height=500 width=750 />
 </p>
 
 ## Conclusion:
@@ -256,4 +256,3 @@ In the end, algo trading has brought a new era to online trading.Though it’s n
     <li><a href="https://www.google.com/url?q=https://www.coursera.org/learn/trading-algorithm&amp;sa=D&amp;ust=1601212995261000&amp;usg=AOvVaw367MvtEOfzkWxGp3-vLOCb">https://www.coursera.org/learn/trading-algorithm</a></li>
     <li><a href="https://www.google.com/url?q=https://www.coursera.org/learn/advanced-trading-algorithms&amp;sa=D&amp;ust=1601212995262000&amp;usg=AOvVaw38-Xfsxsq1zZbG_RMjkHmh">https://www.coursera.org/learn/advanced-trading-algorithms</a></li>
   </ul>
-
